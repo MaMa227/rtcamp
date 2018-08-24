@@ -21,7 +21,7 @@ https://careers.rtcamp.com/wordpress-engineer/assignment/
 # The demo for this theme can be found here:
 http://manas-ldrp-itr.000webhostapp.com
 
-This are the screentshots of this theme and builed it responsive as per the assignment requirement
+This are the screentshots of this theme and also I builed it responsive as per the assignment requirement
 
 ![Alt text](https://github.com/MaMa227/rtcamp/blob/master/screens/1.PNG "Screen one")
 Screen one
