@@ -23,13 +23,13 @@ http://wordpress-assignment-rtcamp.000webhostapp.com
 
 This are the screentshots of this theme
 
-![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/1.PNG "Screen one")
+![Alt text](https://github.com/MaMa227/rtcamp/blob/master/screens/1.PNG "Screen one")
 Screen one
 
-![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/2.PNG "Screen two")
+![Alt text](https://github.com/MaMa227/rtcamp/blob/master/screens/2.PNG "Screen two")
 Screen two
 
-![Alt text](https://github.com/Harsh-Ajudia/rtCamp-Wordpress-Engineer-Assignment/blob/master/screens/3.PNG "Screen three")
+![Alt text](https://github.com/MaMa227/rtcamp/blob/master/screens/3.PNG "Screen three")
 Screen three
 
 # rtcamp
